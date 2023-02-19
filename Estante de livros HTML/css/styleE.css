@@ -1,0 +1,65 @@
+
+.tituloL
+{
+    color: #A038c7;
+    text-align: center;
+}
+.fonte
+{
+    color: black;
+}
+
+td
+{
+    background-color: #A9D9D0;
+    text-align: center;
+}
+
+tr
+{
+    background-color: #038c7F;
+    text-align: center;
+}
+img
+{
+    width: 15%; 
+    display: block; 
+    margin: 0px auto;
+}
+body
+{
+    text-align: justify; 
+    background-color: aquamarine; 
+    font-family: Times New Roman;
+}
+h5
+{
+    background-color: black;
+    font-size: xx-small;
+}
+
+#coID
+{
+    color: goldenrod;
+}
+h1
+{
+    font-size: 500%; 
+    text-align: center; 
+    margin-top: 20px;
+    text-shadow: 5px 5px black;
+    color: rgba(58, 226, 86, 0.301);
+    font-family: 'Times New Roman';
+}
+h4
+{
+    font-size: 150%; 
+    text-align: center;
+}
+span
+{
+    text-shadow: 10px 10px red;
+    color: gold;
+    font-size: 480%;
+    font-family: Haettenschweiler;
+}
