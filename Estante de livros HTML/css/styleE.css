@@ -58,8 +58,8 @@ h4
 }
 span
 {
-    text-shadow: 10px 10px red;
-    color: gold;
-    font-size: 480%;
+    text-shadow: 2px 2px red;
+    color: darkgoldenrod;
+    font-size: 150%;
     font-family: Haettenschweiler;
 }
